@@ -15,7 +15,7 @@ We go through multiple churn datasets to get a better understanding how differen
 
 For Telco dataset , we first do exploratory data analysis. 
 
-Through this project, we observe the multidimesnional behavior of the customer and try to figure if a pattenr is being reflected. This can aslo contribute in identifying trends and improvising in business. 
+Another is the Bank customer dataset. Through this project, we observe the multidimesnional behavior of the customer and try to figure if a pattern is being reflected. This can aslo contribute in identifying trends and improvising in business. 
 
 The Multidimesnional Analysis of Customers gives pretty good insights. It has well classified data. We go through multiple steps such as Exploratory Data Analysis , Cluster Analysis and finally Principal Component Analysis to thoroughly understand the data in Python. 
 
