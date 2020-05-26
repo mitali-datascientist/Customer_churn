@@ -13,7 +13,7 @@ d) Involuntary churn - expiration of service or utilities by the provider e.g cr
 
 We go through multiple churn datasets to get a better understanding how different customers behave in a different manner. 
 
-For Telco dataset , we first do exploratory data analysis. 
+For Telco dataset , we first do exploratory data analysis. And further build up a model on the data. 
 
 Another is the Bank customer dataset. Through this project, we observe the multidimesnional behavior of the customer and try to figure if a pattern is being reflected. This can aslo contribute in identifying trends and improvising in business. 
 
